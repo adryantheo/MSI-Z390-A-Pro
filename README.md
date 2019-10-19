@@ -1,4 +1,4 @@
-# For educational purposes only
+# For educational purposes only || Will be Remove or Private Soon
 # Currently running in Catalina 10.15
 My PC's Configurations
 
