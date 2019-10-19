@@ -1,10 +1,9 @@
 # For educational purposes only
-# MSI-Z390-A-Pro
 # Currently running in Catalina 10.15
 My PC's Configurations
 
 Full Specs:
-
+- MSI-Z390-A-Pro
 - Intel Core i5 9600K 6 Cores 3.7Ghz
 - Intel UHD 630M
 - Nvidia RTX 2060
