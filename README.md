@@ -1,5 +1,5 @@
 # For educational purposes only || Will be Remove or Private Soon
-# Currently running in Catalina 10.15
+# Currently running in Catalina 10.15.2
 My PC's Configurations
 
 Full Specs:
